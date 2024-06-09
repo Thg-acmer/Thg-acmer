@@ -15,7 +15,7 @@ My name is Tanghongguang! 👋. I have a passion for backend development and arc
       </ul>
     </td>
     <td>
-      <h3>🌱 <img src="https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white" alt="Always Learning" /></h3>
+      <h2>🌱 <img src="https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white" alt="Always Learning" /></h2>
       <ul>
         <li>DevSecOps Practices</li>
         <li>Serverless Architecture</li>
