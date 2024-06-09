@@ -1,4 +1,4 @@
-# Hi there, I'm [Code hero]! 👋
+# Hi there, I'm Code hero! 👋
 
 ![Header](https://your-image-url.com/header.png)
 
@@ -42,9 +42,6 @@ I have a passion for backend development and architecture design, although I lac
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thgtanghongguang@163.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%230077B5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MyCrush)
 
 
-![Footer](https://your-image-url.com/footer.png)
-
-<!-- GitHub Profile Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
