@@ -8,10 +8,10 @@ My name is Tanghongguang! 👋. I have a passion for backend development and arc
 <table>
   <tr>
     <td>
-      <h3>📚 <img src="https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white" alt="Studying" /></h3>
+      <h2>📚 <img src="https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white" alt="Studying" /></h2>
       <ul>
-        <li>Advanced Kubernetes</li>
         <li>Microservices Architecture</li>
+        <li>Machine Learning</li>
       </ul>
     </td>
     <td>
