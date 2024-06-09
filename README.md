@@ -1,12 +1,9 @@
 # Hi there, I'm Thg! 👋
 
-![Header](https://your-image-url.com/header.png)
-
 ## 🚀 About Me
 I have a passion for backend development and architecture design, although I lack professional experience. No obstacle can defeat me， I will continue to learn and embrace life with enthusiasm.
 
-### 🎓 Education
-![Education](https://img.shields.io/badge/Education-0078D4?style=flat-square&logo=graduation-cap&logoColor=white)
+### 🎓 Education ![Education](https://img.shields.io/badge/Education-0078D4?style=flat-square&logo=graduation-cap&logoColor=white)
 - **HuNan Institute of Technology**: Bachelor of Science in Software Engineer
 - **Chongqing University of Posts and Telecommunications**: Set to start a Master's degree in Computer Technology
 
@@ -47,11 +44,11 @@ I have a passion for backend development and architecture design, although I lac
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 10px;">
         <h3>📈 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Thg-acmer&show_icons=true&theme=radical" alt="Your GitHub stats" />
     </div>
     <div style="flex: 1; margin-left: 10px;">
         <h3>🏆 Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thg-acmer&layout=compact&theme=radical" alt="Top Languages" />
     </div>
 </div>
 
