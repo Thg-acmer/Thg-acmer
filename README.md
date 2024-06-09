@@ -48,6 +48,19 @@ My name is Tanghongguang! 👋. I have a passion for backend development and arc
     </div>
 </div>
 
+<table>
+  <tr>
+    <td>
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Thg-acmer&show_icons=true&theme=radical" alt="Your GitHub stats" />
+    </td>
+    <td>
+      <h3>🏆 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thg-acmer&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thgtanghongguang@163.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%230077B5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MyCrush)
