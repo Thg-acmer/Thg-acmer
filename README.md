@@ -1,4 +1,4 @@
-# Hi there, I'm Code hero! 👋
+# Hi there, I'm Thg! 👋
 
 ![Header](https://your-image-url.com/header.png)
 
@@ -7,19 +7,29 @@ I have a passion for backend development and architecture design, although I lac
 
 ### 🎓 Education
 ![Education](https://img.shields.io/badge/Education-0078D4?style=flat-square&logo=graduation-cap&logoColor=white)
-- **[Chongqing University of Posts and Telecommunications]**: Set to start a Master's degree in Computer Technology
+- **HuNan Institute of Technology**: Bachelor of Science in Software Engineer
+- **Chongqing University of Posts and Telecommunications**: Set to start a Master's degree in Computer Technology
 
-### 📚 Currently Studying
-![Studying](https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white)
-- Microservices Architecture
-- Machine learning
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>📚 Currently Learning</h3>
+        <img src="https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white" alt="Studying" />
+        <ul>
+            <li>Microservices Architecture</li>
+            <li>Machine Learning</li>
+        </ul>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>🌱 Always Learning</h3>
+        <img src="https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white" alt="Always Learning" />
+        <ul>
+            <li>DevSecOps Practices</li>
+            <li>Serverless Architecture</li>
+        </ul>
+    </div>
+</div>
 
-### 🌱 Always Learning
-![Learning](https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white)
-- DevSecOps Practices
-- Serverless Architecture
-
-## 🔧 Technologies & Tools
+# 🔧 Tech
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -34,14 +44,18 @@ I have a passion for backend development and architecture design, although I lac
 - **Databases**: MySQL, Redis
 - **Containerization**: Docker
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Thg&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thg-acmer&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h3>📈 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub stats" />
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h3>🏆 Top Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+    </div>
+</div>
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thgtanghongguang@163.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%230077B5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MyCrush)
-
 
