@@ -8,14 +8,14 @@ My name is Tanghongguang! 👋. I have a passion for backend development and arc
 <table>
   <tr>
     <td>
-      <h3>📚 Currently Learning <img src="https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white" alt="Studying" /></h3>
+      <h3>📚 <img src="https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white" alt="Studying" /></h3>
       <ul>
         <li>Advanced Kubernetes</li>
         <li>Microservices Architecture</li>
       </ul>
     </td>
     <td>
-      <h3>🌱 Always Learning <img src="https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white" alt="Always Learning" /></h3>
+      <h3>🌱 <img src="https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white" alt="Always Learning" /></h3>
       <ul>
         <li>DevSecOps Practices</li>
         <li>Serverless Architecture</li>
