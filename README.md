@@ -3,24 +3,7 @@ My name is Tanghongguang! 👋. I have a passion for backend development and arc
 
 ## 🎓![Education](https://img.shields.io/badge/Education-0078D4?style=flat-square&logo=graduation-cap&logoColor=white)
 - **HuNan Institute of Technology**: Bachelor of Science in Software Engineer
-- **Chongqing University of Posts and Telecommunications**: Set to start a Master's degree in Computer Technology
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px;">
-        <h3>📚  <img src="https://img.shields.io/badge/Studying-FF5733?style=flat-square&logo=google-classroom&logoColor=white" alt="Studying" /></h3>
-        <ul>
-            <li>Microservices Architecture</li>
-            <li>Machine Learning</li>
-        </ul>
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <h3>🌱  <img src="https://img.shields.io/badge/Always%20Learning-FFC107?style=flat-square&logo=coursera&logoColor=white" alt="Always Learning" /></h3>
-        <ul>
-            <li>DevSecOps Practices</li>
-            <li>Serverless Architecture</li>
-        </ul>
-    </div>
-</div>
+- **[UpComing Chongqing University of Posts and Telecommunications]**: Set to start a Master's degree in Computer Technology
 
 # 🔧 Tech
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,17 +19,6 @@ My name is Tanghongguang! 👋. I have a passion for backend development and arc
 - **Frontend Development**: Vue3, TypeScript
 - **Databases**: MySQL, Redis
 - **Containerization**: Docker
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px;">
-        <h3>📈 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=Thg-acmer&show_icons=true&theme=radical" alt="Your GitHub stats" />
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <h3>🏆 Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thg-acmer&layout=compact&theme=radical" alt="Top Languages" />
-    </div>
-</div>
 
 <table>
   <tr>
